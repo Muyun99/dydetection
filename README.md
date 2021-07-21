@@ -1,2 +1,4 @@
-# dydetection
-基于 PyTorch 的检测框架
+Under Construction.
+
+**[简体中文](https://github.com/Muyun99/dydetection/tree/main/README_zh_CN.md)**
+
